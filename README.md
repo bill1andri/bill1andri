@@ -22,4 +22,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bill1andri.github.io/portfolio-site/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spijan69@gmail.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bill1andri&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bill1andri&show_icons=true&hide_border=true&theme=github_dark)
